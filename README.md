@@ -8,9 +8,4 @@ This is a stopwatch timer created using HTML and CSS; some specific features are
 
 ## Features
 
-* Start, stop and reset. 
-
-<br>
-
-## Site
-[See the site!] (https://github.com/Kevindietme/coffee-list--menu)
+* Start, stop and reset  
